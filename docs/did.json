@@ -19,5 +19,12 @@
   ],
   "assertionMethod": [
     "did:web:ado3147.github.io:did-web#key1"
+  ],
+  "service": [
+    {
+      "id": "did:web:ado3147.github.io:did-web#vp-request",
+      "type": "DIDAuth",
+      "serviceEndpoint": "https://ado3147.github.io/did-web/verifiable-credential.jwt"
+    }
   ]
 }
