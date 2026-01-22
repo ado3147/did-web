@@ -24,7 +24,7 @@
     {
       "id": "did:web:ado3147.github.io:did-web#vp-request",
       "type": "VPRequest",
-      "serviceEndpoint": "https://vp-registry.maatyan929.workers.dev"
+      "serviceEndpoint": "https://vp-registry.maatyan929.workers.dev/vp"
     }
   ]
 }
