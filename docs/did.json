@@ -24,7 +24,7 @@
     {
       "id": "did:web:ado3147.github.io:did-web#vp-request",
       "type": "DIDAuth",
-      "serviceEndpoint": "https://ado3147.github.io/did-web/verifiable-credential.jwt"
+      "serviceEndpoint": "https://vp-registry.maatyan929.workers.dev"
     }
   ]
 }
